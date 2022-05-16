@@ -3,10 +3,10 @@
 </div>
 <div id="header" align="center">
   <div id="badges">
-    <a href="linkedin/in/michellengnx">
+    <a href="https://www.linkedin.com/in/michellengnx/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="twitter/michellengnx">
+    <a href="https://twitter.com/michellengnx">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
@@ -27,7 +27,7 @@
 
 - :zap: In my free time, I solve Leetcode problems and read tech articles. I also enjoy rock-climbing, paddling, and hanging out with friends.
 
-- :mailbox: How to reach me: ping me on [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michellengnx/) or email me [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michellengnx@gmail.com)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michellengnx/) or [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michellengnx@gmail.com)
 
 
 
