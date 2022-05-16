@@ -16,9 +16,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-<div align="center">
-  <img src="https://media.giphy.com/media/l1JFtOZKYOno0uGYtU/giphy.gif" max-width="300" max-height="300"/>
-</div>
+
 
 ### :woman_technologist: About Me
 - :telescope: I'm Michelle. I'm a Software Engineer, mostly working with back-end services and database. 
