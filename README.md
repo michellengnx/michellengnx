@@ -19,9 +19,9 @@
 
 
 ### :woman_technologist: About Me
-- :🏫: I'm Michelle. I'm working as a Software Engineer, mostly working with back-end services and database in the education sector. 
+- :seedling: I'm Michelle. I'm working as a Software Engineer, mostly working with back-end services and database in the education sector. 
 
-- :seedling: I’m pursuing a Bachelor of Science in Computer Science, Math and Statistics at the University of Toronto. 
+- :school: I’m pursuing a Bachelor of Science in Computer Science, Math and Statistics at the University of Toronto. 
 
 - :zap: In my free time, I solve Leetcode problems and read tech articles. I also enjoy rock-climbing, paddling, and hanging out with friends.
 
