@@ -19,11 +19,13 @@
 
 
 ### :woman_technologist: About Me
-- :telescope: I'm Michelle. I'm a Software Engineer, mostly working with back-end services and database. 
+- :🏫: I'm Michelle. I'm working as a Software Engineer, mostly working with back-end services and database in the education sector. 
 
-- :seedling: I’m currently pursuing a Bachelor of Science in Computer Science, Math and Statistics at the University of Toronto. 
+- :seedling: I’m pursuing a Bachelor of Science in Computer Science, Math and Statistics at the University of Toronto. 
 
 - :zap: In my free time, I solve Leetcode problems and read tech articles. I also enjoy rock-climbing, paddling, and hanging out with friends.
+
+- :telescope: Currently exploring the aethestic world of front-end development.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michellengnx/) or [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michellengnx@gmail.com)
 
