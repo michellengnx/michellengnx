@@ -18,8 +18,8 @@
 </div>
 
 
-### :woman_technologist: About Me
-- :seedling: I'm Michelle. I'm working as a Software Engineer, mostly working with back-end services and database in the education sector. 
+### 👩🏻‍💻 About Me
+- :seedling: I'm Michelle. I'm working as a Software Engineer, mostly with back-end services and database in the education sector. 
 
 - :school: I’m pursuing a Bachelor of Science in Computer Science, Math and Statistics at the University of Toronto. 
 
