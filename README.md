@@ -23,7 +23,7 @@
 
 - :school: I’m pursuing a Bachelor of Science in Computer Science, Math and Statistics at the University of Toronto. 
 
-- :zap: In my free time, I solve Leetcode problems and read tech articles. I also enjoy rock-climbing, paddling, and hanging out with friends.
+- :zap: Currently interested in cybersecurity and playing Capture the Flag. I also enjoy rock-climbing, weightlifting, paddling, and hanging out with friends.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michellengnx/) or [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michellengnx@gmail.com)
 
