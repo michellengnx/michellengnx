@@ -23,7 +23,7 @@
 
 - :school: I’m pursuing a Bachelor of Science in Computer Science, double minor in Math and Statistics at the University of Toronto. 
 
-- :zap: Currently doing an internship at Scotiabank. I also enjoy rock-climbing, weightlifting, paddling, and hanging out with friends.
+- :zap: Currently doing an internship at Scotiabank. I also enjoy weightlifting, boxing, anything fitness related; a good iced coffee (send your recs my way) and hanging out with friends.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michellengnx/) or [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michellengnx@gmail.com)
 
