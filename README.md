@@ -22,7 +22,7 @@
 
 - :zap: Currently doing an internship at Scotiabank. I also enjoy weightlifting, boxing, running or anything fitness related; a good iced coffee (send your recs my way) and hanging out with friends.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michellengnx/) or [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michellengnx@gmail.com)
+- 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michellengnx/) or [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michellengnx@gmail.com)
 
 
 
