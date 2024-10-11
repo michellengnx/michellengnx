@@ -20,7 +20,9 @@
 
 - :school: I’m pursuing a Bachelor of Science in Computer Science, double minor in Math and Statistics at the University of Toronto. 
 
-- :zap: Currently doing an internship at Scotiabank. I also enjoy weightlifting, boxing, running or anything fitness related; a good iced coffee (send your recs my way) and hanging out with friends.
+- :zap: I am doing research on Human Computer Interaction and exploring ways to make CS education better for everyone. I am also on K8s release team starting v1.32. I was previously at Scotiabank and Seneca College ITS. 
+
+- 👾 Outside of school and work, I enjoy weightlifting, boxing, running or anything fitness related; a good iced coffee (send your recs my way) and hanging out with friends.
 
 - 📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michellengnx/)
 
